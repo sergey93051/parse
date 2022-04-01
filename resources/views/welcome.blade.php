@@ -13,7 +13,7 @@
 <body>
     
      <div class="container">
-          <h2>parser</h2>
+          <h2 class="p-1">Карточка торгов</h2>
           <div class="row mt-3">
                <div class="col-9">
                 @foreach ($parsing as $item)

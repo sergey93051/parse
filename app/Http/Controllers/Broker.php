@@ -17,7 +17,7 @@ class Broker extends Controller
         $this->set($client);
         
         $parsing = $this->getTable();
-        
+       
         // dd($title->html());
         // $crawler->filter('table')->each(function ($node) {
         //      dd( $node->text()."<n>");
